@@ -7,6 +7,9 @@
     ],
     "startup_mode": "auto",
     "redirect_mode": "custom",
+    "app_data": [
+        "/var/subsonic"
+    ],
     "network_ports": {
         "WEB_UI": 7575
     }
