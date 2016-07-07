@@ -11,6 +11,6 @@
         "/var/subsonic"
     ],
     "network_ports": {
-        "WEB_UI": 7575
+        "WEB_UI": 4040
     }
 }
