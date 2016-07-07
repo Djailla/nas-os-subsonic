@@ -1,0 +1,17 @@
+{
+    "name": {
+        "en": "Subsonic"
+    },
+    "description_short": {
+        "en": "Subsonic ... easy listening"
+    },
+    "supported_languages": [
+        "en"
+    ],
+    "categories": [
+        "productivity"
+    ],
+    "publisher_name": "Djailla",
+    "publisher_contact": "bastien.vallet@gmail.com",
+    "website_url": "https://github.com/Djailla/subsonic/"
+}
