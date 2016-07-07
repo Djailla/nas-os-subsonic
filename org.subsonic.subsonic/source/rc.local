@@ -5,7 +5,7 @@
 
 case $1 in
     start)
-        echo $'SUBSONIC_ARGS=\"--port=7575\"\nSUBSONIC_USER=root\n' > /etc/default/subsonic
+        echo 'SUBSONIC_ARGS="--port=7575"\nSUBSONIC_USER=root\n' > /etc/default/subsonic
         service subsonic start
     ;;
     stop)

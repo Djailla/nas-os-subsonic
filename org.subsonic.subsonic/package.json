@@ -6,7 +6,6 @@
         "org.debian.wheezy-lamp-1.2"
     ],
     "startup_mode": "auto",
-    "display_mode": "embedded",
     "redirect_mode": "custom",
     "network_ports": {
         "WEB_UI": 7575
