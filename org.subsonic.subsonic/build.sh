@@ -7,5 +7,6 @@ apt-get install openjdk-7-jre -y
 wget http://subsonic.org/download/subsonic-6.0.deb -P /tmp
 dpkg -i /tmp/subsonic-6.0.deb
 rm /tmp/subsonic-6.0.deb
+update-rc.d -f subsonic remove
 
 exit 0
