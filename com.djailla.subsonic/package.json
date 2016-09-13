@@ -1,9 +1,9 @@
 {
     "type": "application",
     "id": "org.subsonic.subsonic",
-    "version": "6.0",
+    "version": "6.0.1",
     "depends": [
-        "org.debian.wheezy-lamp-1.2"
+        "org.debian.jessie-lamp-1.0"
     ],
     "startup_mode": "auto",
     "redirect_mode": "custom",
@@ -11,6 +11,6 @@
         "/var/subsonic"
     ],
     "network_ports": {
-        "WEB_UI": 7575
+        "WEB_UI": 7474
     }
 }
